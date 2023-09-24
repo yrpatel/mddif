@@ -1,0 +1,6 @@
+# Project exclude paths
+/nifi-mddif/target/
+/nifi-mddif-api/target/
+/nifi-mddif-nar/target/
+/nifi-mddif-processors/target/
+/target/

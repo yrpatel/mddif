@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mddif.iml" filepath="$PROJECT_DIR$/mddif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-mddif/nifi-mddif.iml" filepath="$PROJECT_DIR$/nifi-mddif/nifi-mddif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-mddif-api/nifi-mddif-api.iml" filepath="$PROJECT_DIR$/nifi-mddif-api/nifi-mddif-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-mddif-nar/nifi-mddif-nar.iml" filepath="$PROJECT_DIR$/nifi-mddif-nar/nifi-mddif-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-mddif-processors/nifi-mddif-processors.iml" filepath="$PROJECT_DIR$/nifi-mddif-processors/nifi-mddif-processors.iml" />
+    </modules>
+  </component>
+</project>
